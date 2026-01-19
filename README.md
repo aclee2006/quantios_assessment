@@ -1,9 +1,9 @@
 # Quantios QA Assessment
-1) Design and develop a simple automated test for the website https://qainterview.netlify.app/
-----------------------------------------------------------------------------------------------
+A) Design and develop a simple automated test for the website https://qainterview.netlify.app/
 
-2) Postman Collection
-------------------
+
+B) Postman Collection
+
 1. Open Postman
 2. Click Import (top-left)
 3. Choose File
