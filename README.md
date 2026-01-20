@@ -3,10 +3,10 @@ A) Design and develop a simple automated successful login test for the website h
 
 Install nodejs (v24.13.0) from https://nodejs.org/en/download.
 
-# Verify node version:
+Verify node version:
 node -v # Should print "v24.13.0"
 
-# Verify npm version:
+Verify npm version:
 npm -v # Should print "11.6.2"
 
 npm init playwright@latest
