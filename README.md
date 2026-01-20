@@ -1,4 +1,4 @@
-# Quantios QA Assessment
+# QA Assessment
 A) Design and develop a simple automated successful login test for the website https://qainterview.netlify.app/
 
 Install nodejs (v24.13.0) from https://nodejs.org/en/download.
